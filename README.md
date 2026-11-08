@@ -36,7 +36,7 @@ codewars-javascript/
 │   │   └── getTheMeanOfAnArray.js
 │   │
 │   ├── kyu7/
-│   │   └── ex.js
+│   │   └── squareEveryDigit.js
 │   │
 │   ├── kyu6/
 │   │   └── ex.js
