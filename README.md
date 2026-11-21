@@ -39,7 +39,7 @@ codewars-javascript/
 │   │   └── squareEveryDigit.js
 │   │
 │   ├── kyu6/
-│   │   └── ex.js
+│   │   └── twoSum.js
 │   │
 │   └── ...
 │
